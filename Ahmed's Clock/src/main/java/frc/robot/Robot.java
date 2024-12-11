@@ -50,7 +50,7 @@ public class Robot extends TimedRobot {
     CommandScheduler.getInstance().run();
   }
 
-  /** This function is called once each time the robot enters Disabled mode. */
+  /** This function is called once each time the robot enters Disabled mode skibidi bop bop fart. */
   @Override
   public void disabledInit() {}
 
